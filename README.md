@@ -1,3 +1,3 @@
 # typeplusteam.github.io
 
-Homepage Of TypePlus.net
+Homepage Of [TypePlus.net](https://typeplus.net/)
