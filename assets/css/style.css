@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+  height: 100%;
+  width: 100%;
+}
+
+@media (max-width: 40rem) {
+  html {
+    font-size: 14px;
+  }
+}
+
+body {
+  background-color: #ffffff;
+  color: #2e3440;
+  font-family: "Fira Sans", "Segoe UI", Roboto, Helvetica, Arial,
+    "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  font-size: 1rem;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.wrapper {
+  margin: 0 auto;
+  padding: 0;
+  width: 40rem;
+}
+
+img {
+  border: 0;
+  max-width: 40rem;
+}
+
+@media (max-width: 40rem) {
+  img {
+    max-width: 100%;
+  }
+}
+
+.very-soon {
+  font-size: 8rem;
+}
