@@ -112,7 +112,16 @@ a:hover {
   margin: 3rem 0 0;
   padding: 1.8rem 0;
   /* width: 100%; */
+  text-align: left;
 }
 
 .main {
+}
+
+.footer-icons a:hover {
+  text-decoration: none;
+}
+
+.footer-icon {
+  padding-right: 0.4rem;
 }
